@@ -35,19 +35,25 @@ const hero = () => {
             Software Developer
           </h2>
           <span>
-            <a href="#" target='_blank'>
+            <a href="https://x.com/home?lang=en" target='_blank'>
               <img src={twitterIcon} alt="Twitter" />
             </a>
-            <a href="#" target='_blank'>
+            <a href="https://github.com/paramaguru077" target='_blank'>
               <img src={GithubIcon} alt="GitHub" />
             </a>
-            <a href="#" target='_blank'>
+            <a href="www.linkedin.com/in/paramaguru-" target='_blank'>
               <img src={LinkedInIcon} alt="LinkedIn" />
             </a>
           </span>
-          <p>
-            hi i need to write some thing here i will rigth tomorrow
-          </p>
+          
+          <p style={{fontFamily:"sans-serif",
+            letterSpacing:"2px",fontWeight:"bold",
+            marginBottom:"90px"
+          }}>
+As a software developer with a keen eye for detail and a passion for innovation, I specialize in crafting intuitive and engaging user experiences using JavaScript and React. My expertise in Java Data Structures and Algorithms (DSA) enables me to build highly optimized and scalable solutions. 
+</p>
+
+          
           <a href={CV} download >
             <button className='hover'  > Resume</button>
           </a>
