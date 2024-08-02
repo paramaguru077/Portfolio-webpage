@@ -12,25 +12,25 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={weather}
-          link="https://github.com/paramaguru077/weather-app.git"
+          link="https://paramaguru077.github.io/weather-app/wp.html"
           h3="Weather "
           p="Weather web App"
         />
         <ProjectCard
           src={noteapp}
-          link="https://github.com/paramaguru077/notes-app.git"
+          link="https://paramaguru077.github.io/notes-app/"
           h3="Note app"
           p="Note web app"
         />
         <ProjectCard
           src={searchimage}
-          link="https://github.com/Ade-mir/company-landing-page-2"
+          link="https://paramaguru077.github.io/Searchimage/"
           h3="Searchimage"
           p="Search image web"
         />
         <ProjectCard
           src={texttospeech}
-          link="https://github.com/paramaguru077/text-to-voice-converter.git"
+          link="https://paramaguru077.github.io/text-to-voice-converter/"
           h3="TexttoSpeech"
           p="TexttoSpeech image web"
         />

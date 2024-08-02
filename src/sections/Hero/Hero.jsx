@@ -39,7 +39,7 @@ const hero = () => {
               <img src={twitterIcon} alt="Twitter" />
             </a>
             <a href="https://github.com/paramaguru077" target='_blank'>
-              <img src={GithubIcon} alt="GitHub" />
+              <img src={GithubIcon} alt="GitHub" style={{width:"60px"}} />
             </a>
             <a href="www.linkedin.com/in/paramaguru-" target='_blank'>
               <img src={LinkedInIcon} alt="LinkedIn" />
